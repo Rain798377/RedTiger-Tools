@@ -1,4 +1,4 @@
-Re-upload of https://github.com/loxy0dev/RedTiger-Tools
+Re-upload of https://github.com/loxy0dev/RedTiger-Tools.
 
 <img align="center" src="Img/RedTiger-Banner.png" width="100%"> 
 
