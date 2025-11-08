@@ -189,7 +189,7 @@ Re-upload of https://github.com/loxy0dev/RedTiger-Tools.
 
 <h1 align="center">Installation</h1>
 
-<a href="https://github.com/loxy0dev/RedTiger-Tools/archive/refs/tags/v6.6.zip">Dowloads "RedTiger-Tools.zip" Here</a>
+<a href="https://github.com/Rain798377/RedTiger-Tools.git">Dowloads "RedTiger-Tools.zip" Here</a>
 <p>
   
 ```
@@ -200,7 +200,7 @@ Re-upload of https://github.com/loxy0dev/RedTiger-Tools.
 Or
 ```
 1 - Open a terminal.
-2 - Write "git clone https://github.com/loxy0dev/RedTiger-Tools.git"
+2 - Write "git clone https://github.com/Rain798377/RedTiger-Tools.git"
 3 - Write "cd RedTiger-Tools"
 4 - Write "git pull"
 5 - Write "python Setup.py"
